@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "empleados-40147": {
+      "hosting": {
+        "empleados": [
+          "empleados-40147"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "empleados-40147"
+  }
+}
